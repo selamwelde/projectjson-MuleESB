@@ -1,1 +1,1 @@
-# projectxml-MuleESB
+# projectjson-MuleESB
